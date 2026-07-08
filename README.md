@@ -70,7 +70,7 @@ Right now I'm looking for an **entry-level Data Scientist / Data Analyst / AI En
 <a href="mailto:[kaviyashanmugam3023@gmail.com]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <br/>
 
-<a href="https://leetcode.com/u/kaviya_S-23/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+
 <a href="https://www.hackerrank.com/profile/kaviyashanmugam9"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
 <br/><br/>
 
@@ -312,11 +312,11 @@ Engineered an automated **speech-recognition pipeline** in Python, applying nois
 
 <div align="center">
 
-<a href="https://leetcode.com/kaviya_S-23"><img src="https://img.shields.io/badge/-LeetCode-2d2d2d?style=for-the-badge&logo=leetcode&logoColor=FFA116"/></a>
+
 <a href="https://www.hackerrank.com/kaviyashanmugam9"><img src="https://img.shields.io/badge/-HackerRank-2d2d2d?style=for-the-badge&logo=hackerrank&logoColor=2EC866"/></a>
 
 <br/><br/>
-<img src="https://leetcard.jacoblin.cool/kaviya_s-23?theme=dark&font=Fira%20Code&ext=heatmap" width="48%"/>
+<img src="https://hackerrank.jacoblin.cool/kaviyashanmugam9?theme=dark&font=Fira%20Code&ext=heatmap" width="48%"/>
 
 </div>
 
